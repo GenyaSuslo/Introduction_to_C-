@@ -3,6 +3,7 @@ using namespace std;
 
 void main()
 {
-	cout << "Hello World";
+	system("color 25");//первая цифра цвет фона, вторая цыет текста,распространяется на весь код
+	cout << "Hello \"World\"";
 
 }
